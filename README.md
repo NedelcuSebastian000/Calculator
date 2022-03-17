@@ -1,7 +1,7 @@
 # Calculator
-Calculator software application who can help us solving equations. In this calculator we can set letters with values and we can use them till the end of the program
+Calculator software application who can help us solving arithmetical equations. In this calculator we can set letters with values and we can use them till the end of the program
 
-Features:
+Features so far:
 
 -sum
 
@@ -43,4 +43,4 @@ a + 1 + 2
 
 Using /exit we can exit the program
 
-Using /help we can see how it works
+Using /help we can see the functionality of the software application.
